@@ -1,6 +1,6 @@
 ### Hi there 👋, Piryanka Jha
 #### | Data Analytics Enthusiast |
-![| Data Analytics Enthusiast |]
+
 
 passionate about turning data into stories 📊. Skilled in Power BI, Excel, SQL, and Python 💻, she builds dashboards that reveal insights 📈."
 
