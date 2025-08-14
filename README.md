@@ -23,6 +23,7 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 - ⚡ Fun fact: Every dataset tells a story 📊
 
 -  ## 🛠 Skills & Tools
+---
 <table>
 <tr>
 <td align="center">
