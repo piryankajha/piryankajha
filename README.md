@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets1.png" width="50%">
+  <img src="banner.png" width="50%">
 </p>
 
 
@@ -11,6 +11,8 @@
 passionate about turning data into stories 📊. Skilled in Power BI, Excel, SQL, and Python 💻, she builds dashboards that reveal insights 📈."
 
 Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
+
+<img src="prgif.gif" align="right" width="400"/>
 
 - 🔭 I’m currently working on  Data analytics projects to strengthen skills in dashboard design and storytelling with data. 
 - 🌱 I’m currently learning learning Pandas, NumPy, Data Visualization 
@@ -54,7 +56,6 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piryankajha)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piryankajha&show_icons=true)
 
 </div>
