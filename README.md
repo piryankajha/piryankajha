@@ -56,10 +56,29 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piryankajha)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=piryankajha&show_icons=true)
+<table style="border:none;">
+<tr>
+<td style="border:none;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piryankajha&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td style="border:none;">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piryankajha&show_icons=true&theme=tokyonight)
+
+</td>
+</tr>
+</table>
 
 </div>
+
+
+
+
+
+
+
 
 
 ---
